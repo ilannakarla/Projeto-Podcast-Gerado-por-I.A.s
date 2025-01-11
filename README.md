@@ -17,3 +17,10 @@ Tarefa: "Criando um Podcast com IAs Generativas" do Curso "CAIXA - IA Generativa
 - CAPCUT para editar aúdio e adicionar efeitos de som no início e no final
 - Capa foi gerada no MICROSOFT CREATE: Comando utilizado: "Imagem de um robô vestindo uma camisa com tema de reciclagem, como se fosse um podcaster, utilizando headset e microfone na cor verde claro, no estilo youtuber."
 
+## 👨‍💻 Resultado
+
+[Ouça o podcast](/EPISODIO_01editado.MP3)
+
+## 💭 Reflexão 
+
+Foi um grande desafio conseguir finalizar esse projeto. Espero que tenha ficado satisfatório.
